@@ -1,1 +1,1 @@
-smkc hackathon app .apk file working frontent employee side dashboard 
+smkc hackathon app .apk file working frontend and server side password checking logic 
